@@ -1,3 +1,11 @@
-![texto-alternativo](link-da-imagem)
-![]()
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Boas vindas ao meu perfil :blue_heart
+Meu nome dudu do grau 
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+  ### Você pode entrar em contato comigo :mailbox
+
+eduardogiollo09@gmail.com
+![descrição do GIF](https://media.giphy.com/media/l4KibWpBGWchSqCRy/giphy.gif)
