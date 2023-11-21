@@ -8,4 +8,4 @@ Meu nome dudu do grau
   ### Você pode entrar em contato comigo :mailbox
 
 eduardogiollo09@gmail.com
-![descrição do GIF](https://media.giphy.com/media/l0OWiMGpoC6apZFXG/giphy.gif)
+![descrição do GIF](https://tenor.com/rrPzQRMqVWB.gif)
